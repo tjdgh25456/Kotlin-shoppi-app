@@ -1,0 +1,13 @@
+package com.app.shoppi_app
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+
+class SplashActivity: AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        splashScreen
+
+    }
+}
